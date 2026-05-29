@@ -1,4 +1,4 @@
-# Correlacao_Balanceamento
+# Correlacao_e_Balanceamento
 Aqui você irá encontrar a atividade do módulo 17 do curso de Cientista de Dados da Ebac.
 
 A atividade consiste em aplicar técnicas de pré-processamento de dados, preparando a base para etapas mais avançadas de análise e modelagem preditiva.
